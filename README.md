@@ -1,7 +1,7 @@
 Godless Bitches<br>
 =============================
 
-KODI / XBMC / Firestick audio addon for the Godless Bitches podcasts<br>
+<a href="https://kodi.tv/">KODI</a> / <a href="https://kodi.tv/">XMBC</a> / <a href="https://www.firesticktricks.com/install-kodi-on-fire-stick.html">Firestick</a> audio addon for the <a href="http://www.godlessbitches.com/">Godless Bitches</a><br><br> podcasts.<br>
 
 <a href="http://www.godlessbitches.com/">GodlessBitches.com</a><br>
 
